@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ad2a22c1.css",
+    "main.js": "/static/js/main.f3d177bc.js",
+    "static/media/H1.png": "/static/media/H1.7c87342c4fdef0cc6ba8.png",
+    "static/media/home_logo2.ico": "/static/media/home_logo2.5429a35c090c08d5c4ff.ico",
+    "static/media/b1.jpg": "/static/media/b1.e6ad35e18d9b9211122a.jpg",
+    "static/media/H2.jpg": "/static/media/H2.13d4d739a7ef145e4f30.jpg",
+    "static/media/H3.jpg": "/static/media/H3.e157ba0ab41f1addc8cf.jpg",
+    "static/media/KhojoLogoWithHome2.png": "/static/media/KhojoLogoWithHome2.f1e03ff44433181346c6.png",
+    "static/media/Profile.png": "/static/media/Profile.697fdcd21f6d157b9073.png",
+    "index.html": "/index.html",
+    "main.ad2a22c1.css.map": "/static/css/main.ad2a22c1.css.map",
+    "main.f3d177bc.js.map": "/static/js/main.f3d177bc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad2a22c1.css",
+    "static/js/main.f3d177bc.js"
+  ]
+}
